@@ -75,3 +75,5 @@ Combines changes from one branch into another.
 Displays the current working directory.
 ### ls
 Lists files and directories in the current location.
+### cd
+Changes the current working directory.
