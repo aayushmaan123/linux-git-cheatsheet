@@ -95,4 +95,6 @@ Changes file and directory permissions.
 Creates a new Git repository.
 ### git status
 Displays the state of the working directory and staging area.
+### git add
+Stages changes to be included in the next commit.
 
