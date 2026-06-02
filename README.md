@@ -100,4 +100,5 @@ Stages changes to be included in the next commit.
 
 ### git commit
 Saves staged changes to the repository history.
-
+### git branch
+Creates, lists, or manages branches.
