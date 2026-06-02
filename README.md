@@ -87,4 +87,5 @@ Copies files or directories from one location to another.
 Moves or renames files and directories.
 ### cat
 Displays the contents of a file.
-
+### grep
+Searches for specific text patterns within files.
