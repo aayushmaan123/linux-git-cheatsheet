@@ -77,3 +77,5 @@ Displays the current working directory.
 Lists files and directories in the current location.
 ### cd
 Changes the current working directory.
+### mkdir
+Creates a new directory.
