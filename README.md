@@ -89,3 +89,5 @@ Moves or renames files and directories.
 Displays the contents of a file.
 ### grep
 Searches for specific text patterns within files.
+### chmod
+Changes file and directory permissions.
