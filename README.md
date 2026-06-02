@@ -81,3 +81,5 @@ Changes the current working directory.
 Creates a new directory.
 ### rm
 Removes files or directories.
+### cp
+Copies files or directories from one location to another.
