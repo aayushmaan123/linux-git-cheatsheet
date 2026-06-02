@@ -71,4 +71,5 @@ Switches between branches or restores files.
 ### git merge
 
 Combines changes from one branch into another.
-
+### pwd
+Displays the current working directory.
