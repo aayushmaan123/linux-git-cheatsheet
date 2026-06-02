@@ -85,4 +85,6 @@ Removes files or directories.
 Copies files or directories from one location to another.
 ### mv
 Moves or renames files and directories.
+### cat
+Displays the contents of a file.
 
