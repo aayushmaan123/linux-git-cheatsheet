@@ -93,4 +93,6 @@ Searches for specific text patterns within files.
 Changes file and directory permissions.
 ### git init
 Creates a new Git repository.
+### git status
+Displays the state of the working directory and staging area.
 
