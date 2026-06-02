@@ -73,3 +73,5 @@ Switches between branches or restores files.
 Combines changes from one branch into another.
 ### pwd
 Displays the current working directory.
+### ls
+Lists files and directories in the current location.
