@@ -98,3 +98,6 @@ Displays the state of the working directory and staging area.
 ### git add
 Stages changes to be included in the next commit.
 
+### git commit
+Saves staged changes to the repository history.
+
