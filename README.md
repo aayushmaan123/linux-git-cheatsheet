@@ -83,3 +83,6 @@ Creates a new directory.
 Removes files or directories.
 ### cp
 Copies files or directories from one location to another.
+### mv
+Moves or renames files and directories.
+
